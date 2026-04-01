@@ -12,3 +12,4 @@
 10. nwg-look
 11. zathura
 12. dunst
+13. kdeconnect
