@@ -10,3 +10,4 @@
 8. qt6ct-kde
 9. pavucontrol-qt
 10. nwg-look
+11. zathura
