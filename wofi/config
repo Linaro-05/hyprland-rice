@@ -1,0 +1,13 @@
+show=drun
+allow_images=true
+images_size=64
+width=510
+height=500
+show_all=true
+always_parse_args=true
+print_command=true
+layer=overlay
+insensitive=true
+prompt=Cerca...
+history=true
+
