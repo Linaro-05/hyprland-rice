@@ -11,3 +11,4 @@
 9. pavucontrol-qt
 10. nwg-look
 11. zathura
+12. dunst
