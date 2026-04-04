@@ -13,3 +13,4 @@
 - zathura
 - dunst
 - kdeconnect
+- hyprshot
