@@ -13,6 +13,6 @@
 - zathura
 - dunst
 - kdeconnect
-##Screeenshot
+## Screeenshot
   - hyprshot
   - hyprpicker
