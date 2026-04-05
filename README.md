@@ -14,5 +14,5 @@
 - dunst
 - kdeconnect
 ##Screeenshot
-- hyprshot
-- hyprpicker
+  - hyprshot
+  - hyprpicker
